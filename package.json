@@ -1,0 +1,14 @@
+{
+  "name": "operate-vsts",
+  "version": "1.0.0",
+  "description": "VSTSを操作してみた",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vso-node-api": "^6.2.8-preview"
+  }
+}
